@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nick!!
+# (✪ω✪) Hi, I'm Nick!!
 
 CSUN Computer Science
 
@@ -6,7 +6,7 @@ I like breaking things (ethically), rebuilding them better, and learning how sys
 
 ---
 
-## 🧠 About Me
+## ( ◕‿◕) About Me
 
 - 🎓 CS student (Cybersecurity-focused)
 - 🔐 Interested in security, networking, and ethical hacking
@@ -17,7 +17,7 @@ Just build things that you care about; you can make it work later.
 
 ---
 
-## 🧰 Tech Stack
+## (⌐■_■) Tech Stack
 
 | Languages | Web | Security | Tools |
 |----------|-----|----------|-------|
@@ -28,7 +28,7 @@ Just build things that you care about; you can make it work later.
 
 ---
 
-## 🚀 Projects
+## (✜‿‿✜) Projects
 
 Some things I’ve worked on or am currently building:
 
@@ -46,7 +46,7 @@ Some things I’ve worked on or am currently building:
 
 ---
 
-## 📈 What I’m Learning Now
+## (☼‿‿☼) What I’m Learning Now
 
 - Deeper networking & security concepts
 - Applied cybersecurity tooling
@@ -55,15 +55,15 @@ Some things I’ve worked on or am currently building:
 
 ---
 
-## 🦊 Other than coding
+## (♥‿‿♥) Other than coding
 
 You will find me playing video games, talking about fnaf, or just being a nuisance!
 
 ---
 
-## 📫 Connect With Me
+## (^‿‿^) Connect With Me
 
-- GitHub: **you’re already here 😄**
+- GitHub: **you’re already here **
 - [LinkedIn](www.linkedin.com/in/nick-pham-46887230a)
 - Email: *tbd*
 
