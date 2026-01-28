@@ -19,6 +19,19 @@ I care less about flashy demos and more about **understanding fundamentals** and
 
 ## 🧰 Tech Stack
 
+## 🧰 Tech Stack
+
+| Languages | Web | Security | Tools |
+|----------|-----|----------|-------|
+| Java | HTML/CSS | Networking | Git |
+| Python | JavaScript | Linux | VS Code |
+| Bash | Shopify | WiFi | Raspberry Pi |
+| SQL | REST | Embedded | 3D Printing |
+
+
+
+
+
 **Languages**
 - Java
 - Python
