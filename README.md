@@ -2,7 +2,7 @@
 
 CSUN Computer Science
 
-I like breaking things (ethically), rebuilding them better, and learning how systems *actually* work from software and networks to hardware and design.
+I like breaking things (ethically), rebuilding them better, and learning how systems work from software and networks to hardware and design.
 
 ---
 
