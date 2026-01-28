@@ -80,7 +80,7 @@ You will find me playing video games, talking about fnaf, or just being a nuisan
 ## 📫 Connect With Me
 
 - GitHub: **you’re already here 😄**
-- LinkedIn](www.linkedin.com/in/nick-pham-46887230a)
+- [LinkedIn](www.linkedin.com/in/nick-pham-46887230a)
 - Email: *tbd*
 
 ---
