@@ -85,9 +85,4 @@ You will find me playing video games, talking about fnaf, or just being a nuisan
 
 ---
 
-## 🦊 Other than coding
--
-
----
-
-Thanks for stopping by 🤝
+Thanks for stopping by :3 
