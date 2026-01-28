@@ -13,11 +13,9 @@ I like breaking things (ethically), rebuilding them better, and learning how sys
 - 🛠️ Love hands-on projects: hardware, software, and web
 - 🧪 Constantly experimenting, iterating, and improving
 
-I care less about flashy demos and more about **understanding fundamentals** and building things that *work*.
+Just build things that you care about; you can make it work later.
 
 ---
-
-## 🧰 Tech Stack
 
 ## 🧰 Tech Stack
 
@@ -27,33 +25,6 @@ I care less about flashy demos and more about **understanding fundamentals** and
 | Python | JavaScript | Linux | VS Code |
 | Bash | Shopify | WiFi | Raspberry Pi |
 | SQL | REST | Embedded | 3D Printing |
-
-
-
-
-
-**Languages**
-- Java
-- Python
-- JavaScript
-- Bash
-
-**Web / App**
-- HTML, CSS
-- Shopify (Liquid, custom JS/CSS)
-- REST concepts
-
-**Security / Systems**
-- Networking fundamentals
-- Linux
-- WiFi & packet analysis
-- Basic pentesting concepts
-
-**Tools**
-- Git & GitHub
-- VS Code
-- 3D printers
-- Raspberry Pi / embedded devices
 
 ---
 
