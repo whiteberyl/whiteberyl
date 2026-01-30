@@ -13,7 +13,7 @@ I like breaking things (ethically), rebuilding them better, and learning how sys
 - 🛠️ Love hands-on projects: hardware, software, and web
 - 🧪 Constantly experimenting, iterating, and improving
 
-Just build things that you care about; you can make it work later.
+You can just build things that you care about; you can make it work later.
 
 ---
 
@@ -65,7 +65,7 @@ You will find me playing video games, talking about fnaf, or just being a nuisan
 
 - GitHub: **you’re already here **
 - [LinkedIn](www.linkedin.com/in/nick-pham-46887230a)
-- Email: *tbd*
+- Email: np@nickpham.dev
 
 ---
 
