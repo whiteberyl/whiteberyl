@@ -24,7 +24,7 @@ You can just build things that you care about; you can make it work later.
 | Java | HTML/CSS | Networking | Git |
 | Python | JavaScript | Linux | VS Code |
 | Bash | Shopify | WiFi | Raspberry Pi |
-| SQL | REST | Embedded | 3D Printing |
+| Ruby | REST | Embedded | 3D Printing |
 
 ---
 
