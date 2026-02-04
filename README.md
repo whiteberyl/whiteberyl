@@ -41,6 +41,9 @@ Some things I’ve worked on or am currently building:
   - Custom cases, accessories, and experimental designs
 - 🔹 **Automation & Scripting**
   - Small tools to make life easier
+- 🔹 **Another Portfolio Website**
+  - Cloudflare Pages, basic HTML/CSS/JS
+
 
 > More coming soon—this repo stays alive 
 
