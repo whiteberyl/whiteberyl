@@ -2,7 +2,7 @@
 
 CSUN Computer Science
 
-break the world
+secure the world
 ---
 
 ## ( ◕‿◕) About Me
